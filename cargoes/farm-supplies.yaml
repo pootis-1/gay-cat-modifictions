@@ -6,7 +6,7 @@ id: 19
 label: FMSP
 longName: farm supplies
 name: Farm Supplies
-penaltyLength: 32
+penaltyLength: 33
 penaltyLowerBound: 2
 price: 6990
 sprite:
